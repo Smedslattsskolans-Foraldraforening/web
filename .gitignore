@@ -1,3 +1,20 @@
+# Jekyll / Ruby
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# OS
+.DS_Store
+
+# Node
+node_modules/
+
+# Editor
+.vscode/
 _site/
 .sass-cache/
 .jekyll-cache/

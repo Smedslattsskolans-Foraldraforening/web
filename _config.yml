@@ -1,0 +1,7 @@
+title: "Smedslättsskolans Föräldraförening"
+language: "sv"
+baseurl: "" # leave empty for root
+url: ""     # leave empty so site can be served from custom domains via DNS
+theme: minima
+permalink: /:title/
+email: smedslattsforaldrar@gmail.com
